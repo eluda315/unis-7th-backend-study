@@ -1,4 +1,4 @@
-package com.mysite.sbb.practice;
+package com.mysite.sbb;
 
 import lombok.Getter;
 import lombok.Setter;
